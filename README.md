@@ -33,6 +33,8 @@ $ docker run \
 ...
 ```
 
+The options in `torrc` are documented [here](https://2019.www.torproject.org/docs/tor-manual.html.en)
+
 # Contributing
 
 Please feel free to create issues and file PRs with any change that you wish to see.
